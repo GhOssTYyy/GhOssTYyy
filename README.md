@@ -2,10 +2,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhossTYyy&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhOssTYyy&layout=compact&theme=tokyonight)
 </div>
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png">
+  <img  alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img  alt="Rafa-Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+   <img  alt="Rafa-Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+  <img  alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png">
   
   ##
 <div> 
